@@ -1,0 +1,703 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Wed 26 Nov 2014 06:22:36 PM PST
+
+BeginCmp
+TimeStamp = /547662F4;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476631E;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766350;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476635F;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476636E;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476637D;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476638A;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766390;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766396;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476639C;
+Reference = D10;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663A2;
+Reference = D11;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663A8;
+Reference = D12;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663AE;
+Reference = D13;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663B4;
+Reference = D14;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663BA;
+Reference = D15;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663C0;
+Reference = D16;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663C6;
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663CC;
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663D2;
+Reference = D19;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663D8;
+Reference = D20;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663DE;
+Reference = D21;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663E4;
+Reference = D22;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663EA;
+Reference = D23;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663F0;
+Reference = D24;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663F6;
+Reference = D25;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547663FC;
+Reference = D26;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766402;
+Reference = D27;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766408;
+Reference = D28;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476640E;
+Reference = D29;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766414;
+Reference = D30;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476641A;
+Reference = D31;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766420;
+Reference = D32;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766426;
+Reference = D33;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476642C;
+Reference = D34;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766432;
+Reference = D35;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766438;
+Reference = D36;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476643E;
+Reference = D37;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766444;
+Reference = D38;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476644A;
+Reference = D39;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766450;
+Reference = D40;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766456;
+Reference = D41;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476645C;
+Reference = D42;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766462;
+Reference = D43;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766468;
+Reference = D44;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476646E;
+Reference = D45;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766474;
+Reference = D46;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476647A;
+Reference = D47;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766480;
+Reference = D48;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766486;
+Reference = D49;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476648C;
+Reference = D50;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766492;
+Reference = D51;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766498;
+Reference = D52;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476649E;
+Reference = D53;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664A4;
+Reference = D54;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664AA;
+Reference = D55;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664B0;
+Reference = D56;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664B6;
+Reference = D57;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664BC;
+Reference = D58;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664C2;
+Reference = D59;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664C8;
+Reference = D60;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664CE;
+Reference = D61;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664D4;
+Reference = D62;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664DA;
+Reference = D63;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664E0;
+Reference = D64;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664E6;
+Reference = D65;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664EC;
+Reference = D66;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664F2;
+Reference = D67;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664F8;
+Reference = D68;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547664FE;
+Reference = D69;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766504;
+Reference = D70;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476650A;
+Reference = D71;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766510;
+Reference = D72;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766516;
+Reference = D73;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476651C;
+Reference = D74;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766522;
+Reference = D75;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766528;
+Reference = D76;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476652E;
+Reference = D77;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766534;
+Reference = D78;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476653A;
+Reference = D79;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766540;
+Reference = D80;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766546;
+Reference = D81;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476654C;
+Reference = D82;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766552;
+Reference = D83;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766558;
+Reference = D84;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476655E;
+Reference = D85;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766564;
+Reference = D86;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476656A;
+Reference = D87;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766570;
+Reference = D88;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766576;
+Reference = D89;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476657C;
+Reference = D90;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766582;
+Reference = D91;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766588;
+Reference = D92;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476658E;
+Reference = D93;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766594;
+Reference = D94;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476659A;
+Reference = D95;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /547665A0;
+Reference = D96;
+ValeurCmp = LED;
+IdModule  = CUSTOM2 LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766848;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = DCJACK_2PIN_HIGHCURRENT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54766963;
+Reference = RP1;
+ValeurCmp = R_PACK8;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54768158;
+Reference = RP2;
+ValeurCmp = R_PACK8;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5476687B;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = slide_switch;
+EndCmp
+
+EndListe
